@@ -10,7 +10,7 @@ W. Avy, the investor, wants us to collect more information about temperature tre
 ## Resources Used
 *DataSources*: [hawaii.sqlite](https://github.com/fathi129/Surfs_up/blob/master/hawaii.sqlite)<br>
 *Software used*: Jupyter notebook, Flask, SQLite,<br> 
-*Libraries used*: Pandas, SQlAlchemy <br>
+*Libraries used*: Pandas, SQLAlchemy <br>
 *Language*: Python <br>
 
 ## Deliverable 1: Determine the Summary Statistics for June 
@@ -35,7 +35,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I have filtered the 
 
 ## Summary
 
-- Overall, the weather in December and June are very similar, although December has a broader range of results, with its high being close to June but low well below June. June and December will be appropriate months to open surfing and ice cream shops as the average temperature difference between both the months are 4 degrees F. 
+- Overall, the weather in December and June are very similar, although December has a broader range of results, with its high being close to June but low well below June. June and December will be appropriate months to open surfing and ice cream shops as the average temperature difference between both the months are 4 degrees F.<br>
 **Additional queries that could be run include**: 
 - We could calculate the Precipitation difference between June and December to determine which one has more rainy weather. We could see the average rainfall is 14% in June and in December it was 22% by seeing the precipitation results.<br>
 
