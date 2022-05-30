@@ -37,7 +37,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I have filtered the 
 
 - Overall, the weather in December and June are very similar, although December has a broader range of results, with its high being close to June but low well below June. June and December will be appropriate months to open surfing and ice cream shops as the average temperature difference between both the months are 4 degrees F. 
 **Additional queries that could be run include**: 
-- We could calculate the Precipitation difference between June and December to determine which one has more rainy weather. We could see the average rainfall is 14% in June by seeing the precipitation results.<br>
+- We could calculate the Precipitation difference between June and December to determine which one has more rainy weather. We could see the average rainfall is 14% in June and in December it was 22% by seeing the precipitation results.<br>
 
 |    ***June Precipitation Histogram***          |    ***December Precipitation Histogram***   |
 |  --------------------------------------------  |    -----------------------------------------| 
@@ -52,7 +52,7 @@ When performing this analysis, we calculated the precipitation for the whole yea
 
 
 - As well as a comparison by the weather station, we may see higher, lower temperatures and precipitation levels at different locations. We would be primarily interested in the weather station closest to our location, narrowing the results and providing the best data for us to consider.
-- We could also calculate the wind speed near the location in June and December to help decide about the surf shop.
+- We could also calculate the wind condition near the location in June and December to help decide about the surfing.
 
 
 
