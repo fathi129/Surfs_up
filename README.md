@@ -49,8 +49,8 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I have filtered the 
 When performing this analysis,we have calculated the precipitation for the whole year,and we could see the average rainfall through out the year was 17%.
 The distribution of temperature for the whole year for particular station was also calculated and we can see that it ranges between 60 to 80 degree F.<br>
 
-<img src = "https://github.com/fathi129/Surfs_up/blob/master/Precipitation%20images/rainfall.png" width = 350><br> 
-<img src = "https://github.com/fathi129/Surfs_up/blob/master/Precipitation%20images/prcp_year_describe.png" width = 200><br> 
+<img src = "https://github.com/fathi129/Surfs_up/blob/master/Precipitation%20images/rainfall.png" width = 350> <br>
+<img src = "https://github.com/fathi129/Surfs_up/blob/master/Precipitation%20images/prcp_year_describe.png" width = 200> <br> 
 <img src = "https://github.com/fathi129/Surfs_up/blob/master/Precipitation%20images/temp_year_Around.png" width = 350><br>
 
 
